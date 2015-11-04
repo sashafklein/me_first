@@ -68,6 +68,8 @@ instance.move_order_to_beginning!
 instance.set_order!(5) # Sets the current instance's order to 5, and reorders other instances around it.
 ```
 
+> To get a clearer sense of what exactly these methods do, check out [the specs](https://github.com/sashafklein/me_first/tree/master/spec/me_first_spec.rb).
+
 Note that these methods are all dependent upon the column name:
 
 ```ruby

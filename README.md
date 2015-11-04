@@ -1,6 +1,11 @@
+
 # MeFirst
 
 A straighforward extension for ActiveRecord models which makes it easy to reorder objects by a given column's values. 
+
+![lemon-line](http://dl.dropboxusercontent.com/s/kuwpzbcz5659umh/lemon-line.gif?dl=0)
+
+## Getting Started
 
 Add this line to your application's Gemfile:
 
